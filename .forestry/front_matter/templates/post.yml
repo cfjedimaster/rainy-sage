@@ -52,6 +52,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2017-04-08-aliquam.md
 - _posts/2017-04-07-veroeros.md
 - _posts/2017-04-03-ultricies.md
 - _posts/2017-04-09-tempus.md
@@ -63,4 +64,3 @@ pages:
 - _posts/2017-04-10-feugiat.md
 - _posts/2017-04-05-dolor.md
 - _posts/2017-04-02-dictum.md
-- _posts/2017-04-08-aliquam.md
